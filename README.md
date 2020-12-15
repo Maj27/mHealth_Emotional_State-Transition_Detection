@@ -1,5 +1,6 @@
 # mHealth_Emotion_detection
 
+This project was done with collaboration with team members Madeen Sultana and Joon Lee, from the DIH lab , University of Calgary.
 Link to the paper: https://mhealth.jmir.org/2020/9/e17818/
 
 Summary of the project: The main objective of this project is to study the feasibility of detecting emotional states and transitions in small intervals leveraging machine learning algorithms applied and contextual data acquired by smartphone and wearable sensors. Our study includes all three dimensions of emotional states (pleasure, arousal, and dominance) and the variability of interpersonal data as well. 
